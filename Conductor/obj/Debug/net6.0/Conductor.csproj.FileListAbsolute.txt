@@ -1,0 +1,14 @@
+C:\Users\Amin\source\repos\Conductor\Conductor\bin\Debug\net6.0\Conductor.exe
+C:\Users\Amin\source\repos\Conductor\Conductor\bin\Debug\net6.0\Conductor.deps.json
+C:\Users\Amin\source\repos\Conductor\Conductor\bin\Debug\net6.0\Conductor.runtimeconfig.json
+C:\Users\Amin\source\repos\Conductor\Conductor\bin\Debug\net6.0\Conductor.dll
+C:\Users\Amin\source\repos\Conductor\Conductor\bin\Debug\net6.0\Conductor.pdb
+C:\Users\Amin\source\repos\Conductor\Conductor\obj\Debug\net6.0\Conductor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\source\repos\Conductor\Conductor\obj\Debug\net6.0\Conductor.AssemblyInfoInputs.cache
+C:\Users\Amin\source\repos\Conductor\Conductor\obj\Debug\net6.0\Conductor.AssemblyInfo.cs
+C:\Users\Amin\source\repos\Conductor\Conductor\obj\Debug\net6.0\Conductor.csproj.CoreCompileInputs.cache
+C:\Users\Amin\source\repos\Conductor\Conductor\obj\Debug\net6.0\Conductor.dll
+C:\Users\Amin\source\repos\Conductor\Conductor\obj\Debug\net6.0\refint\Conductor.dll
+C:\Users\Amin\source\repos\Conductor\Conductor\obj\Debug\net6.0\Conductor.pdb
+C:\Users\Amin\source\repos\Conductor\Conductor\obj\Debug\net6.0\Conductor.genruntimeconfig.cache
+C:\Users\Amin\source\repos\Conductor\Conductor\obj\Debug\net6.0\ref\Conductor.dll
